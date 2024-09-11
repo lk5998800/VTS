@@ -1,0 +1,5974 @@
+bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+session closed
+bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+	bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+	session opened
+
+bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+
+session opened
+bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+2~~~~The simulation time is now at time step 1~~~~
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+2~~~~The simulation time is now at time step 1~~~~
+2~~~~The simulation time is now at time step 2~~~~
+2~~~~The simulation time is now at time step 3~~~~
+2~~~~The simulation time is now at time step 4~~~~
+2~~~~The simulation time is now at time step 5~~~~
+2~~~~The simulation time is now at time step 6~~~~
+2~~~~The simulation time is now at time step 7~~~~
+2~~~~The simulation time is now at time step 8~~~~
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+2~~~~The simulation time is now at time step 1~~~~
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+2~~~~The simulation time is now at time step 1~~~~
+"####Electric Train Info Start####
+	ID: 3000
+Name: East Bound Train3000
+Speed: 1.0
+Capacity: 120
+Position: 44.974769,-93.22277
+*Distance to next stop: 1.5696597388295581
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+ ####Electric Train Info End####
+####Large Bus Info Start####
+	ID: 2000
+Name: East Bound2000
+Speed: 0.5
+Capacity: 80
+Position: 44.972392,-93.243774
+*Distance to next stop: 0.9712663713083954
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+####Large Bus Info End####
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 101
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 106
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: President
+Destination: 116
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 109
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 116
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 118
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 119
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Goldy
+Destination: 121
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 122
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 122
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+////Simulation Lines////
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+2~~~~The simulation time is now at time step 1~~~~
+"####Electric Train Info Start####
+	ID: 3000
+Name: East Bound Train3000
+Speed: 1.0
+Capacity: 120
+Position: 44.974769,-93.22277
+*Distance to next stop: 1.5696597388295581
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+ ####Electric Train Info End####
+####Large Bus Info Start####
+	ID: 2000
+Name: East Bound2000
+Speed: 0.5
+Capacity: 80
+Position: 44.972392,-93.243774
+*Distance to next stop: 0.9712663713083954
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+####Large Bus Info End####
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 104
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 104
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Coach
+Destination: 110
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Goldy
+Destination: 111
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 116
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 118
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 119
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: President
+Destination: 121
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 122
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 122
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+2~~~~The simulation time is now at time step 2~~~~
+"####Electric Train Info Start####
+	ID: 3000
+Name: East Bound Train3000
+Speed: 1.0
+Capacity: 120
+/Position: 44.97118223539062,-93.21487083580965
+*Distance to next stop: 0.5696597388295581
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+ ####Electric Train Info End####
+####Large Bus Info Start####
+	ID: 2000
+Name: East Bound2000
+Speed: 0.5
+Capacity: 80
+0Position: 44.973003572702964,-93.23929376663813
++Distance to next stop: 0.47126637130839544
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+####Large Bus Info End####
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Goldy
+Destination: 104
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 107
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: President
+Destination: 104
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 102
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 4
+####Passenger Info Start####
+Name: Coach
+Destination: 110
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Goldy
+Destination: 111
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Goldy
+Destination: 112
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 113
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: President
+Destination: 116
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 116
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Coach
+Destination: 118
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Goldy
+Destination: 118
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Goldy
+Destination: 119
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 119
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 4
+####Passenger Info Start####
+Name: President
+Destination: 121
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 122
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 121
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Goldy
+Destination: 122
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Goldy
+Destination: 122
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 122
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+////Simulation Lines////
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+2~~~~The simulation time is now at time step 1~~~~
+"####Electric Train Info Start####
+	ID: 3000
+Name: East Bound Train3000
+Speed: 1.0
+Capacity: 120
+Position: 44.974769,-93.22277
+*Distance to next stop: 1.5696597388295581
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+ ####Electric Train Info End####
+####Large Bus Info Start####
+	ID: 2000
+Name: East Bound2000
+Speed: 0.5
+Capacity: 80
+Position: 44.972392,-93.243774
+*Distance to next stop: 0.9712663713083954
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+####Large Bus Info End####
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 103
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 106
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: President
+Destination: 114
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 115
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 116
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 118
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 119
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Goldy
+Destination: 121
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 122
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 122
+Wait at stop: 1
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+////Simulation Lines////
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+2~~~~The simulation time is now at time step 1~~~~
+====Line Info Start====
+
+ID: 10000
+Name: testLine
+Type: BUS_LINE
+####Route Info Start####
+ID: 1
+Name: testRouteOut
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 1
+Name: test stop 2
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 0
+Name: test stop 1
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 0
+Name: testRouteIn
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+Name: test stop 1
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+Name: test stop 2
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10000
+Name: testLine
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 1
+Name: testRouteOut
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 1
+Name: test stop 2
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 4
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 2
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 0
+Name: test stop 1
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 0
+Name: testRouteIn
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+Name: test stop 1
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+Name: test stop 2
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 2
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 4
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 2
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+2~~~~The simulation time is now at time step 2~~~~
+====Line Info Start====
+
+ID: 10000
+Name: testLine
+Type: BUS_LINE
+####Route Info Start####
+ID: 1
+Name: testRouteOut
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 1
+Name: test stop 2
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 3
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 6
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 2
+Wait at stop: 4
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 2
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 0
+Name: test stop 1
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 0
+Name: testRouteIn
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+Name: test stop 1
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+Name: test stop 2
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 3
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 6
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 2
+Wait at stop: 4
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 2
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10000
+Name: testLine
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 1
+Name: testRouteOut
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 1
+Name: test stop 2
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 4
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 8
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 2
+Wait at stop: 6
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 2
+Wait at stop: 4
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 0
+Name: test stop 1
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 0
+Name: testRouteIn
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+Name: test stop 1
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+Name: test stop 2
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 4
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 8
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: President
+Destination: 2
+Wait at stop: 6
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Coach
+Destination: 2
+Wait at stop: 4
+Time on vehicle: 0
+####Passenger Info End####
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Wait at stop: 2
+Time on vehicle: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+////Simulation Lines////
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+////Simulation Lines////
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+////Simulation Lines////
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: 
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+////Simulation Lines////
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+&Time between vehicles for route  0: 5
+&Time between vehicles for route  1: 5
+*Number of time steps for simulation is: 2
+Starting simulation
+////Simulation Lines////
+====Line Info Start====
+
+ID: 10000
+Name: Campus Connector
+Type: BUS_LINE
+####Route Info Start####
+ID: 10
+Name: East Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 100
+Name: Blegen Hall
+Position: 44.972392,-93.243774
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 101
+Name: Coffman
+Position: 44.97358,-93.235071
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 102
+&Name: Oak Street at University Avenue
+Position: 44.975392,-93.226632
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 103
+#Name: Transitway at 23rd Avenue SE
+Position: 44.975837,-93.222174
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 104
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980753,-93.180669
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 105
+"Name: State Fairgrounds Lot S-108
+Position: 44.983375,-93.17881
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 106
+Name: Buford at Gortner Avenue
+Position: 44.98454,-93.181692
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 107
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 11
+Name: West Bound
+Num stops: 9
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 108
+Name: St. Paul Student Center
+Position: 44.98463,-93.186352
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 109
+Name: Buford at Gortner Avenue
+Position: 44.984482,-93.181657
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 110
+"Name: State Fairgrounds Lot S-108
+Position: 44.983703,-93.178846
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 111
+(Name: Transitway at Commonwealth Avenue
+Position: 44.980663,-93.180808
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 112
+'Name: Thompson Center & 23rd Avenue SE
+Position: 44.976397,-93.221801
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 113
+Name: Ridder Arena
+Position: 44.978058,-93.229176
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 114
++Name: Pleasant Street at Jones-Eddy Circle
+Position: 44.978366,-93.236038
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 115
+Name: Bruininks Hall
+Position: 44.974549,-93.236927
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 116
+Name: Blegen Hall
+Position: 44.972638,-93.243591
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+====Line Info Start====
+
+ID: 10001
+Name: Express Train
+Type: TRAIN_LINE
+####Route Info Start####
+ID: 12
+Name: East Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 117
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 118
+Name: Water Tower
+Position: 44.969139,-93.210371
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 119
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+ID: 13
+Name: West Bound Train
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 120
+Name: Raymond
+Position: 44.963552,-93.195403
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 121
+Name: Water Tower
+Position: 44.968721,-93.209862
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 122
+Name: Stadium Village
+Position: 44.974769,-93.22277
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+====Line Info End====
+! ////Simulation Lines////
+! ====Line Info Start====
+! 
+ID: 10000
+! Name: Campus Connector
+! Type: BUS_LINE
+! ####Route Info Start####
+! ID: 10
+! Name: East Bound
+! Num stops: 8
+! ****Stops Info Start****
+! ++++Next Stop Info Start++++
+! ####Stop Info Start####
+! ID: 100
+! Name: Blegen Hall
+! Position: 44.972392,-93.243774
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ++++Next Stop Info End++++
+! ####Stop Info Start####
+! ID: 101
+! Name: Coffman
+! Position: 44.97358,-93.235071
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 102
+! &Name: Oak Street at University Avenue
+! Position: 44.975392,-93.226632
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 103
+! #Name: Transitway at 23rd Avenue SE
+! Position: 44.975837,-93.222174
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 104
+! (Name: Transitway at Commonwealth Avenue
+! Position: 44.980753,-93.180669
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 105
+! "Name: State Fairgrounds Lot S-108
+! Position: 44.983375,-93.17881
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 106
+! Name: Buford at Gortner Avenue
+! Position: 44.98454,-93.181692
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 107
+! Name: St. Paul Student Center
+! Position: 44.98463,-93.186352
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ****Stops Info End****
+! ####Route Info End####
+! ####Route Info Start####
+! ID: 11
+! Name: West Bound
+! Num stops: 9
+! ****Stops Info Start****
+! ++++Next Stop Info Start++++
+! ####Stop Info Start####
+! ID: 108
+! Name: St. Paul Student Center
+! Position: 44.98463,-93.186352
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ++++Next Stop Info End++++
+! ####Stop Info Start####
+! ID: 109
+! Name: Buford at Gortner Avenue
+! Position: 44.984482,-93.181657
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 110
+! "Name: State Fairgrounds Lot S-108
+! Position: 44.983703,-93.178846
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 111
+! (Name: Transitway at Commonwealth Avenue
+! Position: 44.980663,-93.180808
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 112
+! 'Name: Thompson Center & 23rd Avenue SE
+! Position: 44.976397,-93.221801
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 113
+! Name: Ridder Arena
+! Position: 44.978058,-93.229176
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 114
+! +Name: Pleasant Street at Jones-Eddy Circle
+! Position: 44.978366,-93.236038
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 115
+! Name: Bruininks Hall
+! Position: 44.974549,-93.236927
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 116
+! Name: Blegen Hall
+! Position: 44.972638,-93.243591
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ****Stops Info End****
+! ####Route Info End####
+! ====Line Info End====
+! ====Line Info Start====
+! 
+ID: 10001
+! Name: Express Train
+! Type: TRAIN_LINE
+! ####Route Info Start####
+! ID: 12
+! Name: East Bound Train
+! Num stops: 3
+! ****Stops Info Start****
+! ++++Next Stop Info Start++++
+! ####Stop Info Start####
+! ID: 117
+! Name: Stadium Village
+! Position: 44.974769,-93.22277
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ++++Next Stop Info End++++
+! ####Stop Info Start####
+! ID: 118
+! Name: Water Tower
+! Position: 44.969139,-93.210371
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 119
+! Name: Raymond
+! Position: 44.963552,-93.195403
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ****Stops Info End****
+! ####Route Info End####
+! ####Route Info Start####
+! ID: 13
+! Name: West Bound Train
+! Num stops: 3
+! ****Stops Info Start****
+! ++++Next Stop Info Start++++
+! ####Stop Info Start####
+! ID: 120
+! Name: Raymond
+! Position: 44.963552,-93.195403
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ++++Next Stop Info End++++
+! ####Stop Info Start####
+! ID: 121
+! Name: Water Tower
+! Position: 44.968721,-93.209862
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ####Stop Info Start####
+! ID: 122
+! Name: Stadium Village
+! Position: 44.974769,-93.22277
+! ****Passengers Info Start****
+! Num passengers waiting: 0
+! ****Passengers Info End****
+! ####Stop Info End####
+! ****Stops Info End****
+! ####Route Info End####
+! ====Line Info End====
+! bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+! &Time between vehicles for route  0: 5
+! &Time between vehicles for route  1: 5
+! *Number of time steps for simulation is: 2
+! Starting simulation
+#"bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+%$bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+'&bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+'&////Simulation Lines////
+'&====Line Info Start====
+'&
+ID: 10000
+'&Name: Campus Connector
+'&Type: BUS_LINE
+'&####Route Info Start####
+'&ID: 10
+'&Name: East Bound
+'&Num stops: 8
+'&****Stops Info Start****
+'&++++Next Stop Info Start++++
+'&####Stop Info Start####
+'&ID: 100
+'&Name: Blegen Hall
+'&Position: 44.972392,-93.243774
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&++++Next Stop Info End++++
+'&####Stop Info Start####
+'&ID: 101
+'&Name: Coffman
+'&Position: 44.97358,-93.235071
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 102
+'&&Name: Oak Street at University Avenue
+'&Position: 44.975392,-93.226632
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 103
+'&#Name: Transitway at 23rd Avenue SE
+'&Position: 44.975837,-93.222174
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 104
+'&(Name: Transitway at Commonwealth Avenue
+'&Position: 44.980753,-93.180669
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 105
+'&"Name: State Fairgrounds Lot S-108
+'&Position: 44.983375,-93.17881
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 106
+'&Name: Buford at Gortner Avenue
+'&Position: 44.98454,-93.181692
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 107
+'&Name: St. Paul Student Center
+'&Position: 44.98463,-93.186352
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&****Stops Info End****
+'&####Route Info End####
+'&####Route Info Start####
+'&ID: 11
+'&Name: West Bound
+'&Num stops: 9
+'&****Stops Info Start****
+'&++++Next Stop Info Start++++
+'&####Stop Info Start####
+'&ID: 108
+'&Name: St. Paul Student Center
+'&Position: 44.98463,-93.186352
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&++++Next Stop Info End++++
+'&####Stop Info Start####
+'&ID: 109
+'&Name: Buford at Gortner Avenue
+'&Position: 44.984482,-93.181657
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 110
+'&"Name: State Fairgrounds Lot S-108
+'&Position: 44.983703,-93.178846
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 111
+'&(Name: Transitway at Commonwealth Avenue
+'&Position: 44.980663,-93.180808
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 112
+'&'Name: Thompson Center & 23rd Avenue SE
+'&Position: 44.976397,-93.221801
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 113
+'&Name: Ridder Arena
+'&Position: 44.978058,-93.229176
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 114
+'&+Name: Pleasant Street at Jones-Eddy Circle
+'&Position: 44.978366,-93.236038
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 115
+'&Name: Bruininks Hall
+'&Position: 44.974549,-93.236927
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 116
+'&Name: Blegen Hall
+'&Position: 44.972638,-93.243591
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&****Stops Info End****
+'&####Route Info End####
+'&====Line Info End====
+'&====Line Info Start====
+'&
+ID: 10001
+'&Name: Express Train
+'&Type: TRAIN_LINE
+'&####Route Info Start####
+'&ID: 12
+'&Name: East Bound Train
+'&Num stops: 3
+'&****Stops Info Start****
+'&++++Next Stop Info Start++++
+'&####Stop Info Start####
+'&ID: 117
+'&Name: Stadium Village
+'&Position: 44.974769,-93.22277
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&++++Next Stop Info End++++
+'&####Stop Info Start####
+'&ID: 118
+'&Name: Water Tower
+'&Position: 44.969139,-93.210371
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 119
+'&Name: Raymond
+'&Position: 44.963552,-93.195403
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&****Stops Info End****
+'&####Route Info End####
+'&####Route Info Start####
+'&ID: 13
+'&Name: West Bound Train
+'&Num stops: 3
+'&****Stops Info Start****
+'&++++Next Stop Info Start++++
+'&####Stop Info Start####
+'&ID: 120
+'&Name: Raymond
+'&Position: 44.963552,-93.195403
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&++++Next Stop Info End++++
+'&####Stop Info Start####
+'&ID: 121
+'&Name: Water Tower
+'&Position: 44.968721,-93.209862
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&####Stop Info Start####
+'&ID: 122
+'&Name: Stadium Village
+'&Position: 44.974769,-93.22277
+'&****Passengers Info Start****
+'&Num passengers waiting: 0
+'&****Passengers Info End****
+'&####Stop Info End####
+'&****Stops Info End****
+'&####Route Info End####
+'&====Line Info End====
+'(bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+'(////Simulation Lines////
+'(====Line Info Start====
+'(
+ID: 10000
+'(Name: Campus Connector
+'(Type: BUS_LINE
+'(####Route Info Start####
+'(ID: 10
+'(Name: East Bound
+'(Num stops: 8
+'(****Stops Info Start****
+'(++++Next Stop Info Start++++
+'(####Stop Info Start####
+'(ID: 100
+'(Name: Blegen Hall
+'(Position: 44.972392,-93.243774
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(++++Next Stop Info End++++
+'(####Stop Info Start####
+'(ID: 101
+'(Name: Coffman
+'(Position: 44.97358,-93.235071
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 102
+'(&Name: Oak Street at University Avenue
+'(Position: 44.975392,-93.226632
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 103
+'(#Name: Transitway at 23rd Avenue SE
+'(Position: 44.975837,-93.222174
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 104
+'((Name: Transitway at Commonwealth Avenue
+'(Position: 44.980753,-93.180669
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 105
+'("Name: State Fairgrounds Lot S-108
+'(Position: 44.983375,-93.17881
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 106
+'(Name: Buford at Gortner Avenue
+'(Position: 44.98454,-93.181692
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 107
+'(Name: St. Paul Student Center
+'(Position: 44.98463,-93.186352
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(****Stops Info End****
+'(####Route Info End####
+'(####Route Info Start####
+'(ID: 11
+'(Name: West Bound
+'(Num stops: 9
+'(****Stops Info Start****
+'(++++Next Stop Info Start++++
+'(####Stop Info Start####
+'(ID: 108
+'(Name: St. Paul Student Center
+'(Position: 44.98463,-93.186352
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(++++Next Stop Info End++++
+'(####Stop Info Start####
+'(ID: 109
+'(Name: Buford at Gortner Avenue
+'(Position: 44.984482,-93.181657
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 110
+'("Name: State Fairgrounds Lot S-108
+'(Position: 44.983703,-93.178846
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 111
+'((Name: Transitway at Commonwealth Avenue
+'(Position: 44.980663,-93.180808
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 112
+'('Name: Thompson Center & 23rd Avenue SE
+'(Position: 44.976397,-93.221801
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 113
+'(Name: Ridder Arena
+'(Position: 44.978058,-93.229176
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 114
+'(+Name: Pleasant Street at Jones-Eddy Circle
+'(Position: 44.978366,-93.236038
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 115
+'(Name: Bruininks Hall
+'(Position: 44.974549,-93.236927
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 116
+'(Name: Blegen Hall
+'(Position: 44.972638,-93.243591
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(****Stops Info End****
+'(####Route Info End####
+'(====Line Info End====
+'(====Line Info Start====
+'(
+ID: 10001
+'(Name: Express Train
+'(Type: TRAIN_LINE
+'(####Route Info Start####
+'(ID: 12
+'(Name: East Bound Train
+'(Num stops: 3
+'(****Stops Info Start****
+'(++++Next Stop Info Start++++
+'(####Stop Info Start####
+'(ID: 117
+'(Name: Stadium Village
+'(Position: 44.974769,-93.22277
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(++++Next Stop Info End++++
+'(####Stop Info Start####
+'(ID: 118
+'(Name: Water Tower
+'(Position: 44.969139,-93.210371
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 119
+'(Name: Raymond
+'(Position: 44.963552,-93.195403
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(****Stops Info End****
+'(####Route Info End####
+'(####Route Info Start####
+'(ID: 13
+'(Name: West Bound Train
+'(Num stops: 3
+'(****Stops Info Start****
+'(++++Next Stop Info Start++++
+'(####Stop Info Start####
+'(ID: 120
+'(Name: Raymond
+'(Position: 44.963552,-93.195403
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(++++Next Stop Info End++++
+'(####Stop Info Start####
+'(ID: 121
+'(Name: Water Tower
+'(Position: 44.968721,-93.209862
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(####Stop Info Start####
+'(ID: 122
+'(Name: Stadium Village
+'(Position: 44.974769,-93.22277
+'(****Passengers Info Start****
+'(Num passengers waiting: 0
+'(****Passengers Info End****
+'(####Stop Info End####
+'(****Stops Info End****
+'(####Route Info End####
+'(====Line Info End====
+*)////Simulation Lines////
+*)====Line Info Start====
+*)
+ID: 10000
+*)Name: Campus Connector
+*)Type: BUS_LINE
+*)####Route Info Start####
+*)ID: 10
+*)Name: East Bound
+*)Num stops: 8
+*)****Stops Info Start****
+*)++++Next Stop Info Start++++
+*)####Stop Info Start####
+*)ID: 100
+*)Name: Blegen Hall
+*)Position: 44.972392,-93.243774
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)++++Next Stop Info End++++
+*)####Stop Info Start####
+*)ID: 101
+*)Name: Coffman
+*)Position: 44.97358,-93.235071
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 102
+*)&Name: Oak Street at University Avenue
+*)Position: 44.975392,-93.226632
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 103
+*)#Name: Transitway at 23rd Avenue SE
+*)Position: 44.975837,-93.222174
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 104
+*)(Name: Transitway at Commonwealth Avenue
+*)Position: 44.980753,-93.180669
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 105
+*)"Name: State Fairgrounds Lot S-108
+*)Position: 44.983375,-93.17881
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 106
+*)Name: Buford at Gortner Avenue
+*)Position: 44.98454,-93.181692
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 107
+*)Name: St. Paul Student Center
+*)Position: 44.98463,-93.186352
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)****Stops Info End****
+*)####Route Info End####
+*)####Route Info Start####
+*)ID: 11
+*)Name: West Bound
+*)Num stops: 9
+*)****Stops Info Start****
+*)++++Next Stop Info Start++++
+*)####Stop Info Start####
+*)ID: 108
+*)Name: St. Paul Student Center
+*)Position: 44.98463,-93.186352
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)++++Next Stop Info End++++
+*)####Stop Info Start####
+*)ID: 109
+*)Name: Buford at Gortner Avenue
+*)Position: 44.984482,-93.181657
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 110
+*)"Name: State Fairgrounds Lot S-108
+*)Position: 44.983703,-93.178846
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 111
+*)(Name: Transitway at Commonwealth Avenue
+*)Position: 44.980663,-93.180808
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 112
+*)'Name: Thompson Center & 23rd Avenue SE
+*)Position: 44.976397,-93.221801
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 113
+*)Name: Ridder Arena
+*)Position: 44.978058,-93.229176
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 114
+*)+Name: Pleasant Street at Jones-Eddy Circle
+*)Position: 44.978366,-93.236038
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 115
+*)Name: Bruininks Hall
+*)Position: 44.974549,-93.236927
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 116
+*)Name: Blegen Hall
+*)Position: 44.972638,-93.243591
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)****Stops Info End****
+*)####Route Info End####
+*)====Line Info End====
+*)====Line Info Start====
+*)
+ID: 10001
+*)Name: Express Train
+*)Type: TRAIN_LINE
+*)####Route Info Start####
+*)ID: 12
+*)Name: East Bound Train
+*)Num stops: 3
+*)****Stops Info Start****
+*)++++Next Stop Info Start++++
+*)####Stop Info Start####
+*)ID: 117
+*)Name: Stadium Village
+*)Position: 44.974769,-93.22277
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)++++Next Stop Info End++++
+*)####Stop Info Start####
+*)ID: 118
+*)Name: Water Tower
+*)Position: 44.969139,-93.210371
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 119
+*)Name: Raymond
+*)Position: 44.963552,-93.195403
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)****Stops Info End****
+*)####Route Info End####
+*)####Route Info Start####
+*)ID: 13
+*)Name: West Bound Train
+*)Num stops: 3
+*)****Stops Info Start****
+*)++++Next Stop Info Start++++
+*)####Stop Info Start####
+*)ID: 120
+*)Name: Raymond
+*)Position: 44.963552,-93.195403
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)++++Next Stop Info End++++
+*)####Stop Info Start####
+*)ID: 121
+*)Name: Water Tower
+*)Position: 44.968721,-93.209862
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)####Stop Info Start####
+*)ID: 122
+*)Name: Stadium Village
+*)Position: 44.974769,-93.22277
+*)****Passengers Info Start****
+*)Num passengers waiting: 0
+*)****Passengers Info End****
+*)####Stop Info End####
+*)****Stops Info End****
+*)####Route Info End####
+*)====Line Info End====
+=>bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+=>session opened
+=>////Simulation Lines////
+=>====Line Info Start====
+=>
+ID: 10000
+=>Name: Campus Connector
+=>Type: BUS_LINE
+=>####Route Info Start####
+=>ID: 10
+=>Name: East Bound
+=>Num stops: 8
+=>****Stops Info Start****
+=>++++Next Stop Info Start++++
+=>####Stop Info Start####
+=>ID: 100
+=>Name: Blegen Hall
+=>Position: 44.972392,-93.243774
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>++++Next Stop Info End++++
+=>####Stop Info Start####
+=>ID: 101
+=>Name: Coffman
+=>Position: 44.97358,-93.235071
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 102
+=>&Name: Oak Street at University Avenue
+=>Position: 44.975392,-93.226632
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 103
+=>#Name: Transitway at 23rd Avenue SE
+=>Position: 44.975837,-93.222174
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 104
+=>(Name: Transitway at Commonwealth Avenue
+=>Position: 44.980753,-93.180669
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 105
+=>"Name: State Fairgrounds Lot S-108
+=>Position: 44.983375,-93.17881
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 106
+=>Name: Buford at Gortner Avenue
+=>Position: 44.98454,-93.181692
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 107
+=>Name: St. Paul Student Center
+=>Position: 44.98463,-93.186352
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>****Stops Info End****
+=>####Route Info End####
+=>####Route Info Start####
+=>ID: 11
+=>Name: West Bound
+=>Num stops: 9
+=>****Stops Info Start****
+=>++++Next Stop Info Start++++
+=>####Stop Info Start####
+=>ID: 108
+=>Name: St. Paul Student Center
+=>Position: 44.98463,-93.186352
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>++++Next Stop Info End++++
+=>####Stop Info Start####
+=>ID: 109
+=>Name: Buford at Gortner Avenue
+=>Position: 44.984482,-93.181657
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 110
+=>"Name: State Fairgrounds Lot S-108
+=>Position: 44.983703,-93.178846
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 111
+=>(Name: Transitway at Commonwealth Avenue
+=>Position: 44.980663,-93.180808
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 112
+=>'Name: Thompson Center & 23rd Avenue SE
+=>Position: 44.976397,-93.221801
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 113
+=>Name: Ridder Arena
+=>Position: 44.978058,-93.229176
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 114
+=>+Name: Pleasant Street at Jones-Eddy Circle
+=>Position: 44.978366,-93.236038
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 115
+=>Name: Bruininks Hall
+=>Position: 44.974549,-93.236927
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 116
+=>Name: Blegen Hall
+=>Position: 44.972638,-93.243591
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>****Stops Info End****
+=>####Route Info End####
+=>====Line Info End====
+=>====Line Info Start====
+=>
+ID: 10001
+=>Name: Express Train
+=>Type: TRAIN_LINE
+=>####Route Info Start####
+=>ID: 12
+=>Name: East Bound Train
+=>Num stops: 3
+=>****Stops Info Start****
+=>++++Next Stop Info Start++++
+=>####Stop Info Start####
+=>ID: 117
+=>Name: Stadium Village
+=>Position: 44.974769,-93.22277
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>++++Next Stop Info End++++
+=>####Stop Info Start####
+=>ID: 118
+=>Name: Water Tower
+=>Position: 44.969139,-93.210371
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 119
+=>Name: Raymond
+=>Position: 44.963552,-93.195403
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>****Stops Info End****
+=>####Route Info End####
+=>####Route Info Start####
+=>ID: 13
+=>Name: West Bound Train
+=>Num stops: 3
+=>****Stops Info Start****
+=>++++Next Stop Info Start++++
+=>####Stop Info Start####
+=>ID: 120
+=>Name: Raymond
+=>Position: 44.963552,-93.195403
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>++++Next Stop Info End++++
+=>####Stop Info Start####
+=>ID: 121
+=>Name: Water Tower
+=>Position: 44.968721,-93.209862
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>####Stop Info Start####
+=>ID: 122
+=>Name: Stadium Village
+=>Position: 44.974769,-93.22277
+=>****Passengers Info Start****
+=>Num passengers waiting: 0
+=>****Passengers Info End****
+=>####Stop Info End####
+=>****Stops Info End****
+=>####Route Info End####
+=>====Line Info End====
+=Dbclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+=Dsession opened
+=D////Simulation Lines////
+=D====Line Info Start====
+=D
+ID: 10000
+=DName: Campus Connector
+=DType: BUS_LINE
+=D####Route Info Start####
+=DID: 10
+=DName: East Bound
+=DNum stops: 8
+=D****Stops Info Start****
+=D++++Next Stop Info Start++++
+=D####Stop Info Start####
+=DID: 100
+=DName: Blegen Hall
+=DPosition: 44.972392,-93.243774
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D++++Next Stop Info End++++
+=D####Stop Info Start####
+=DID: 101
+=DName: Coffman
+=DPosition: 44.97358,-93.235071
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 102
+=D&Name: Oak Street at University Avenue
+=DPosition: 44.975392,-93.226632
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 103
+=D#Name: Transitway at 23rd Avenue SE
+=DPosition: 44.975837,-93.222174
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 104
+=D(Name: Transitway at Commonwealth Avenue
+=DPosition: 44.980753,-93.180669
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 105
+=D"Name: State Fairgrounds Lot S-108
+=DPosition: 44.983375,-93.17881
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 106
+=DName: Buford at Gortner Avenue
+=DPosition: 44.98454,-93.181692
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 107
+=DName: St. Paul Student Center
+=DPosition: 44.98463,-93.186352
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D****Stops Info End****
+=D####Route Info End####
+=D####Route Info Start####
+=DID: 11
+=DName: West Bound
+=DNum stops: 9
+=D****Stops Info Start****
+=D++++Next Stop Info Start++++
+=D####Stop Info Start####
+=DID: 108
+=DName: St. Paul Student Center
+=DPosition: 44.98463,-93.186352
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D++++Next Stop Info End++++
+=D####Stop Info Start####
+=DID: 109
+=DName: Buford at Gortner Avenue
+=DPosition: 44.984482,-93.181657
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 110
+=D"Name: State Fairgrounds Lot S-108
+=DPosition: 44.983703,-93.178846
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 111
+=D(Name: Transitway at Commonwealth Avenue
+=DPosition: 44.980663,-93.180808
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 112
+=D'Name: Thompson Center & 23rd Avenue SE
+=DPosition: 44.976397,-93.221801
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 113
+=DName: Ridder Arena
+=DPosition: 44.978058,-93.229176
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 114
+=D+Name: Pleasant Street at Jones-Eddy Circle
+=DPosition: 44.978366,-93.236038
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 115
+=DName: Bruininks Hall
+=DPosition: 44.974549,-93.236927
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 116
+=DName: Blegen Hall
+=DPosition: 44.972638,-93.243591
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D****Stops Info End****
+=D####Route Info End####
+=D====Line Info End====
+=D====Line Info Start====
+=D
+ID: 10001
+=DName: Express Train
+=DType: TRAIN_LINE
+=D####Route Info Start####
+=DID: 12
+=DName: East Bound Train
+=DNum stops: 3
+=D****Stops Info Start****
+=D++++Next Stop Info Start++++
+=D####Stop Info Start####
+=DID: 117
+=DName: Stadium Village
+=DPosition: 44.974769,-93.22277
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D++++Next Stop Info End++++
+=D####Stop Info Start####
+=DID: 118
+=DName: Water Tower
+=DPosition: 44.969139,-93.210371
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 119
+=DName: Raymond
+=DPosition: 44.963552,-93.195403
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D****Stops Info End****
+=D####Route Info End####
+=D####Route Info Start####
+=DID: 13
+=DName: West Bound Train
+=DNum stops: 3
+=D****Stops Info Start****
+=D++++Next Stop Info Start++++
+=D####Stop Info Start####
+=DID: 120
+=DName: Raymond
+=DPosition: 44.963552,-93.195403
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D++++Next Stop Info End++++
+=D####Stop Info Start####
+=DID: 121
+=DName: Water Tower
+=DPosition: 44.968721,-93.209862
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D####Stop Info Start####
+=DID: 122
+=DName: Stadium Village
+=DPosition: 44.974769,-93.22277
+=D****Passengers Info Start****
+=DNum passengers waiting: 0
+=D****Passengers Info End****
+=D####Stop Info End####
+=D****Stops Info End****
+=D####Route Info End####
+=D====Line Info End====
+=Ebclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+=Esession opened
+=E////Simulation Lines////
+=E====Line Info Start====
+=E
+ID: 10000
+=EName: Campus Connector
+=EType: BUS_LINE
+=E####Route Info Start####
+=EID: 10
+=EName: East Bound
+=ENum stops: 8
+=E****Stops Info Start****
+=E++++Next Stop Info Start++++
+=E####Stop Info Start####
+=EID: 100
+=EName: Blegen Hall
+=EPosition: 44.972392,-93.243774
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E++++Next Stop Info End++++
+=E####Stop Info Start####
+=EID: 101
+=EName: Coffman
+=EPosition: 44.97358,-93.235071
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 102
+=E&Name: Oak Street at University Avenue
+=EPosition: 44.975392,-93.226632
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 103
+=E#Name: Transitway at 23rd Avenue SE
+=EPosition: 44.975837,-93.222174
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 104
+=E(Name: Transitway at Commonwealth Avenue
+=EPosition: 44.980753,-93.180669
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 105
+=E"Name: State Fairgrounds Lot S-108
+=EPosition: 44.983375,-93.17881
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 106
+=EName: Buford at Gortner Avenue
+=EPosition: 44.98454,-93.181692
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 107
+=EName: St. Paul Student Center
+=EPosition: 44.98463,-93.186352
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E****Stops Info End****
+=E####Route Info End####
+=E####Route Info Start####
+=EID: 11
+=EName: West Bound
+=ENum stops: 9
+=E****Stops Info Start****
+=E++++Next Stop Info Start++++
+=E####Stop Info Start####
+=EID: 108
+=EName: St. Paul Student Center
+=EPosition: 44.98463,-93.186352
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E++++Next Stop Info End++++
+=E####Stop Info Start####
+=EID: 109
+=EName: Buford at Gortner Avenue
+=EPosition: 44.984482,-93.181657
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 110
+=E"Name: State Fairgrounds Lot S-108
+=EPosition: 44.983703,-93.178846
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 111
+=E(Name: Transitway at Commonwealth Avenue
+=EPosition: 44.980663,-93.180808
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 112
+=E'Name: Thompson Center & 23rd Avenue SE
+=EPosition: 44.976397,-93.221801
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 113
+=EName: Ridder Arena
+=EPosition: 44.978058,-93.229176
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 114
+=E+Name: Pleasant Street at Jones-Eddy Circle
+=EPosition: 44.978366,-93.236038
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 115
+=EName: Bruininks Hall
+=EPosition: 44.974549,-93.236927
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 116
+=EName: Blegen Hall
+=EPosition: 44.972638,-93.243591
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E****Stops Info End****
+=E####Route Info End####
+=E====Line Info End====
+=E====Line Info Start====
+=E
+ID: 10001
+=EName: Express Train
+=EType: TRAIN_LINE
+=E####Route Info Start####
+=EID: 12
+=EName: East Bound Train
+=ENum stops: 3
+=E****Stops Info Start****
+=E++++Next Stop Info Start++++
+=E####Stop Info Start####
+=EID: 117
+=EName: Stadium Village
+=EPosition: 44.974769,-93.22277
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E++++Next Stop Info End++++
+=E####Stop Info Start####
+=EID: 118
+=EName: Water Tower
+=EPosition: 44.969139,-93.210371
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 119
+=EName: Raymond
+=EPosition: 44.963552,-93.195403
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E****Stops Info End****
+=E####Route Info End####
+=E####Route Info Start####
+=EID: 13
+=EName: West Bound Train
+=ENum stops: 3
+=E****Stops Info Start****
+=E++++Next Stop Info Start++++
+=E####Stop Info Start####
+=EID: 120
+=EName: Raymond
+=EPosition: 44.963552,-93.195403
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E++++Next Stop Info End++++
+=E####Stop Info Start####
+=EID: 121
+=EName: Water Tower
+=EPosition: 44.968721,-93.209862
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E####Stop Info Start####
+=EID: 122
+=EName: Stadium Village
+=EPosition: 44.974769,-93.22277
+=E****Passengers Info Start****
+=ENum passengers waiting: 0
+=E****Passengers Info End****
+=E####Stop Info End####
+=E****Stops Info End****
+=E####Route Info End####
+=E====Line Info End====
+TYbclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+TYsession opened
+TY////Simulation Lines////
+TY====Line Info Start====
+TY
+ID: 10000
+TYName: Campus Connector
+TYType: BUS_LINE
+TY####Route Info Start####
+TYID: 10
+TYName: East Bound
+TYNum stops: 8
+TY****Stops Info Start****
+TY++++Next Stop Info Start++++
+TY####Stop Info Start####
+TYID: 100
+TYName: Blegen Hall
+TYPosition: 44.972392,-93.243774
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY++++Next Stop Info End++++
+TY####Stop Info Start####
+TYID: 101
+TYName: Coffman
+TYPosition: 44.97358,-93.235071
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 102
+TY&Name: Oak Street at University Avenue
+TYPosition: 44.975392,-93.226632
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 103
+TY#Name: Transitway at 23rd Avenue SE
+TYPosition: 44.975837,-93.222174
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 104
+TY(Name: Transitway at Commonwealth Avenue
+TYPosition: 44.980753,-93.180669
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 105
+TY"Name: State Fairgrounds Lot S-108
+TYPosition: 44.983375,-93.17881
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 106
+TYName: Buford at Gortner Avenue
+TYPosition: 44.98454,-93.181692
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 107
+TYName: St. Paul Student Center
+TYPosition: 44.98463,-93.186352
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY****Stops Info End****
+TY####Route Info End####
+TY####Route Info Start####
+TYID: 11
+TYName: West Bound
+TYNum stops: 9
+TY****Stops Info Start****
+TY++++Next Stop Info Start++++
+TY####Stop Info Start####
+TYID: 108
+TYName: St. Paul Student Center
+TYPosition: 44.98463,-93.186352
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY++++Next Stop Info End++++
+TY####Stop Info Start####
+TYID: 109
+TYName: Buford at Gortner Avenue
+TYPosition: 44.984482,-93.181657
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 110
+TY"Name: State Fairgrounds Lot S-108
+TYPosition: 44.983703,-93.178846
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 111
+TY(Name: Transitway at Commonwealth Avenue
+TYPosition: 44.980663,-93.180808
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 112
+TY'Name: Thompson Center & 23rd Avenue SE
+TYPosition: 44.976397,-93.221801
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 113
+TYName: Ridder Arena
+TYPosition: 44.978058,-93.229176
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 114
+TY+Name: Pleasant Street at Jones-Eddy Circle
+TYPosition: 44.978366,-93.236038
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 115
+TYName: Bruininks Hall
+TYPosition: 44.974549,-93.236927
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 116
+TYName: Blegen Hall
+TYPosition: 44.972638,-93.243591
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY****Stops Info End****
+TY####Route Info End####
+TY====Line Info End====
+TY====Line Info Start====
+TY
+ID: 10001
+TYName: Express Train
+TYType: TRAIN_LINE
+TY####Route Info Start####
+TYID: 12
+TYName: East Bound Train
+TYNum stops: 3
+TY****Stops Info Start****
+TY++++Next Stop Info Start++++
+TY####Stop Info Start####
+TYID: 117
+TYName: Stadium Village
+TYPosition: 44.974769,-93.22277
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY++++Next Stop Info End++++
+TY####Stop Info Start####
+TYID: 118
+TYName: Water Tower
+TYPosition: 44.969139,-93.210371
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 119
+TYName: Raymond
+TYPosition: 44.963552,-93.195403
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY****Stops Info End****
+TY####Route Info End####
+TY####Route Info Start####
+TYID: 13
+TYName: West Bound Train
+TYNum stops: 3
+TY****Stops Info Start****
+TY++++Next Stop Info Start++++
+TY####Stop Info Start####
+TYID: 120
+TYName: Raymond
+TYPosition: 44.963552,-93.195403
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY++++Next Stop Info End++++
+TY####Stop Info Start####
+TYID: 121
+TYName: Water Tower
+TYPosition: 44.968721,-93.209862
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY####Stop Info Start####
+TYID: 122
+TYName: Stadium Village
+TYPosition: 44.974769,-93.22277
+TY****Passengers Info Start****
+TYNum passengers waiting: 0
+TY****Passengers Info End****
+TY####Stop Info End####
+TY****Stops Info End****
+TY####Route Info End####
+TY====Line Info End====
+“’bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+“’session opened
+“’////Simulation Lines////
+“’====Line Info Start====
+“’
+ID: 10000
+“’Name: Campus Connector
+“’Type: BUS_LINE
+“’####Route Info Start####
+“’ID: 10
+“’Name: East Bound
+“’Num stops: 8
+“’****Stops Info Start****
+“’++++Next Stop Info Start++++
+“’####Stop Info Start####
+“’ID: 100
+“’Name: Blegen Hall
+“’Position: 44.972392,-93.243774
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’++++Next Stop Info End++++
+“’####Stop Info Start####
+“’ID: 101
+“’Name: Coffman
+“’Position: 44.97358,-93.235071
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 102
+“’&Name: Oak Street at University Avenue
+“’Position: 44.975392,-93.226632
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 103
+“’#Name: Transitway at 23rd Avenue SE
+“’Position: 44.975837,-93.222174
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 104
+“’(Name: Transitway at Commonwealth Avenue
+“’Position: 44.980753,-93.180669
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 105
+“’"Name: State Fairgrounds Lot S-108
+“’Position: 44.983375,-93.17881
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 106
+“’Name: Buford at Gortner Avenue
+“’Position: 44.98454,-93.181692
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 107
+“’Name: St. Paul Student Center
+“’Position: 44.98463,-93.186352
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’****Stops Info End****
+“’####Route Info End####
+“’####Route Info Start####
+“’ID: 11
+“’Name: West Bound
+“’Num stops: 9
+“’****Stops Info Start****
+“’++++Next Stop Info Start++++
+“’####Stop Info Start####
+“’ID: 108
+“’Name: St. Paul Student Center
+“’Position: 44.98463,-93.186352
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’++++Next Stop Info End++++
+“’####Stop Info Start####
+“’ID: 109
+“’Name: Buford at Gortner Avenue
+“’Position: 44.984482,-93.181657
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 110
+“’"Name: State Fairgrounds Lot S-108
+“’Position: 44.983703,-93.178846
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 111
+“’(Name: Transitway at Commonwealth Avenue
+“’Position: 44.980663,-93.180808
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 112
+“’'Name: Thompson Center & 23rd Avenue SE
+“’Position: 44.976397,-93.221801
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 113
+“’Name: Ridder Arena
+“’Position: 44.978058,-93.229176
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 114
+“’+Name: Pleasant Street at Jones-Eddy Circle
+“’Position: 44.978366,-93.236038
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 115
+“’Name: Bruininks Hall
+“’Position: 44.974549,-93.236927
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 116
+“’Name: Blegen Hall
+“’Position: 44.972638,-93.243591
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’****Stops Info End****
+“’####Route Info End####
+“’====Line Info End====
+“’====Line Info Start====
+“’
+ID: 10001
+“’Name: Express Train
+“’Type: TRAIN_LINE
+“’####Route Info Start####
+“’ID: 12
+“’Name: East Bound Train
+“’Num stops: 3
+“’****Stops Info Start****
+“’++++Next Stop Info Start++++
+“’####Stop Info Start####
+“’ID: 117
+“’Name: Stadium Village
+“’Position: 44.974769,-93.22277
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’++++Next Stop Info End++++
+“’####Stop Info Start####
+“’ID: 118
+“’Name: Water Tower
+“’Position: 44.969139,-93.210371
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 119
+“’Name: Raymond
+“’Position: 44.963552,-93.195403
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’****Stops Info End****
+“’####Route Info End####
+“’####Route Info Start####
+“’ID: 13
+“’Name: West Bound Train
+“’Num stops: 3
+“’****Stops Info Start****
+“’++++Next Stop Info Start++++
+“’####Stop Info Start####
+“’ID: 120
+“’Name: Raymond
+“’Position: 44.963552,-93.195403
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’++++Next Stop Info End++++
+“’####Stop Info Start####
+“’ID: 121
+“’Name: Water Tower
+“’Position: 44.968721,-93.209862
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’####Stop Info Start####
+“’ID: 122
+“’Name: Stadium Village
+“’Position: 44.974769,-93.22277
+“’****Passengers Info Start****
+“’Num passengers waiting: 0
+“’****Passengers Info End****
+“’####Stop Info End####
+“’****Stops Info End****
+“’####Route Info End####
+“’====Line Info End====
+“”Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+“•Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+“–bclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+“–session opened
+“–////Simulation Lines////
+“–====Line Info Start====
+“–
+ID: 10000
+“–Name: Campus Connector
+“–Type: BUS_LINE
+“–####Route Info Start####
+“–ID: 10
+“–Name: East Bound
+“–Num stops: 8
+“–****Stops Info Start****
+“–++++Next Stop Info Start++++
+“–####Stop Info Start####
+“–ID: 100
+“–Name: Blegen Hall
+“–Position: 44.972392,-93.243774
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–++++Next Stop Info End++++
+“–####Stop Info Start####
+“–ID: 101
+“–Name: Coffman
+“–Position: 44.97358,-93.235071
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 102
+“–&Name: Oak Street at University Avenue
+“–Position: 44.975392,-93.226632
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 103
+“–#Name: Transitway at 23rd Avenue SE
+“–Position: 44.975837,-93.222174
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 104
+“–(Name: Transitway at Commonwealth Avenue
+“–Position: 44.980753,-93.180669
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 105
+“–"Name: State Fairgrounds Lot S-108
+“–Position: 44.983375,-93.17881
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 106
+“–Name: Buford at Gortner Avenue
+“–Position: 44.98454,-93.181692
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 107
+“–Name: St. Paul Student Center
+“–Position: 44.98463,-93.186352
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–****Stops Info End****
+“–####Route Info End####
+“–####Route Info Start####
+“–ID: 11
+“–Name: West Bound
+“–Num stops: 9
+“–****Stops Info Start****
+“–++++Next Stop Info Start++++
+“–####Stop Info Start####
+“–ID: 108
+“–Name: St. Paul Student Center
+“–Position: 44.98463,-93.186352
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–++++Next Stop Info End++++
+“–####Stop Info Start####
+“–ID: 109
+“–Name: Buford at Gortner Avenue
+“–Position: 44.984482,-93.181657
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 110
+“–"Name: State Fairgrounds Lot S-108
+“–Position: 44.983703,-93.178846
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 111
+“–(Name: Transitway at Commonwealth Avenue
+“–Position: 44.980663,-93.180808
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 112
+“–'Name: Thompson Center & 23rd Avenue SE
+“–Position: 44.976397,-93.221801
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 113
+“–Name: Ridder Arena
+“–Position: 44.978058,-93.229176
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 114
+“–+Name: Pleasant Street at Jones-Eddy Circle
+“–Position: 44.978366,-93.236038
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 115
+“–Name: Bruininks Hall
+“–Position: 44.974549,-93.236927
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 116
+“–Name: Blegen Hall
+“–Position: 44.972638,-93.243591
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–****Stops Info End****
+“–####Route Info End####
+“–====Line Info End====
+“–====Line Info Start====
+“–
+ID: 10001
+“–Name: Express Train
+“–Type: TRAIN_LINE
+“–####Route Info Start####
+“–ID: 12
+“–Name: East Bound Train
+“–Num stops: 3
+“–****Stops Info Start****
+“–++++Next Stop Info Start++++
+“–####Stop Info Start####
+“–ID: 117
+“–Name: Stadium Village
+“–Position: 44.974769,-93.22277
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–++++Next Stop Info End++++
+“–####Stop Info Start####
+“–ID: 118
+“–Name: Water Tower
+“–Position: 44.969139,-93.210371
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 119
+“–Name: Raymond
+“–Position: 44.963552,-93.195403
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–****Stops Info End****
+“–####Route Info End####
+“–####Route Info Start####
+“–ID: 13
+“–Name: West Bound Train
+“–Num stops: 3
+“–****Stops Info Start****
+“–++++Next Stop Info Start++++
+“–####Stop Info Start####
+“–ID: 120
+“–Name: Raymond
+“–Position: 44.963552,-93.195403
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–++++Next Stop Info End++++
+“–####Stop Info Start####
+“–ID: 121
+“–Name: Water Tower
+“–Position: 44.968721,-93.209862
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–####Stop Info Start####
+“–ID: 122
+“–Name: Stadium Village
+“–Position: 44.974769,-93.22277
+“–****Passengers Info Start****
+“–Num passengers waiting: 0
+“–****Passengers Info End****
+“–####Stop Info End####
+“–****Stops Info End****
+“–####Route Info End####
+“–====Line Info End====
+“—Kclass loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession

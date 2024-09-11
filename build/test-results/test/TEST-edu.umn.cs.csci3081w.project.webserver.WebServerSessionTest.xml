@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.webserver.WebServerSessionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-05-04T14:31:27" hostname="MacBook-Pro-3.local" time="0.902">
+  <properties/>
+  <testcase name="testGetRoutesInfo()" classname="edu.umn.cs.csci3081w.project.webserver.WebServerSessionTest" time="0.837"/>
+  <testcase name="testOnClose()" classname="edu.umn.cs.csci3081w.project.webserver.WebServerSessionTest" time="0.004"/>
+  <testcase name="testOnError()" classname="edu.umn.cs.csci3081w.project.webserver.WebServerSessionTest" time="0.048"/>
+  <testcase name="testGetVehiclesInfo()" classname="edu.umn.cs.csci3081w.project.webserver.WebServerSessionTest" time="0.003"/>
+  <testcase name="testSimulationInitialization()" classname="edu.umn.cs.csci3081w.project.webserver.WebServerSessionTest" time="0.003"/>
+  <testcase name="testOnMessageWithInvalidValue()" classname="edu.umn.cs.csci3081w.project.webserver.WebServerSessionTest" time="0.005"/>
+  <system-out><![CDATA[class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+session closed
+class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+session opened
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

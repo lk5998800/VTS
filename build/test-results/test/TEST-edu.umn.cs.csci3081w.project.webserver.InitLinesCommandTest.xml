@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.webserver.InitLinesCommandTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-04T14:31:28" hostname="MacBook-Pro-3.local" time="0.106">
+  <properties/>
+  <testcase name="testExecute()" classname="edu.umn.cs.csci3081w.project.webserver.InitLinesCommandTest" time="0.106"/>
+  <system-out><![CDATA[class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession$MockitoMock$1708097544
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

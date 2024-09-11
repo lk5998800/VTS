@@ -1,0 +1,47 @@
+LINE_START, BUS_LINE, Campus Connector
+
+ROUTE_START, East Bound
+
+STOP, Blegen Hall, 44.972392, -93.243774, .15
+STOP, Coffman, 44.973580, -93.235071, .3
+STOP, Oak Street at University Avenue, 44.975392, -93.226632, .025
+STOP, Transitway at 23rd Avenue SE, 44.975837, -93.222174, .05
+STOP, Transitway at Commonwealth Avenue, 44.980753, -93.180669, .05
+STOP, State Fairgrounds Lot S-108, 44.983375, -93.178810, .01
+STOP, Buford at Gortner Avenue, 44.984540, -93.181692, .01
+STOP, St. Paul Student Center, 44.984630, -93.186352, 0
+
+ROUTE_END
+
+ROUTE_START, West Bound
+
+STOP, St. Paul Student Center, 44.984630, -93.186352, .35
+STOP, St. Paul Student Center, 45.984630, -83.186352, .35
+STOP, Buford at Gortner Avenue, 44.984482, -93.181657, .05
+STOP, State Fairgrounds Lot S-108, 44.983703, -93.178846, .01
+STOP, Transitway at Commonwealth Avenue, 44.980663, -93.180808, .01
+STOP, Thompson Center & 23rd Avenue SE, 44.976397, -93.221801, .025
+STOP, Ridder Arena, 44.978058, -93.229176, .05
+STOP, Pleasant Street at Jones-Eddy Circle, 44.978366, -93.236038, .1
+STOP, Bruininks Hall, 44.974549, -93.236927, .3
+STOP, Blegen Hall, 44.972638, -93.243591, 0
+
+ROUTE_END
+
+LINE_END
+
+LINE_START, CAT, Express Train
+
+ROUTE_START, East Bound Train
+
+STOP, Stadium Village, 44.974769, -93.222770, .15
+STOP, Water Tower, 44.969139, -93.210371, .3
+STOP, Raymond, 44.963552, -93.195403, 0
+
+ROUTE_END
+
+ROUTE_START, West Bound Train
+
+ROUTE_END
+
+LINE_END

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.CounterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-05-04T14:31:29" hostname="MacBook-Pro-3.local" time="0.007">
+  <properties/>
+  <testcase name="testGetTrainIdCounterAndIncrement()" classname="edu.umn.cs.csci3081w.project.model.CounterTest" time="0.0"/>
+  <testcase name="testGetStopIdCounterAndIncrement()" classname="edu.umn.cs.csci3081w.project.model.CounterTest" time="0.001"/>
+  <testcase name="testGetLargeBusIdCounterAndIncrement()" classname="edu.umn.cs.csci3081w.project.model.CounterTest" time="0.0"/>
+  <testcase name="getDieselTrainIdCounterAndIncrement()" classname="edu.umn.cs.csci3081w.project.model.CounterTest" time="0.0"/>
+  <testcase name="testGetSmallBusIdCounterAndIncrement()" classname="edu.umn.cs.csci3081w.project.model.CounterTest" time="0.0"/>
+  <testcase name="testGetRouteIdCounterAndIncrement()" classname="edu.umn.cs.csci3081w.project.model.CounterTest" time="0.001"/>
+  <testcase name="testGetLineIdCounterAndIncrement()" classname="edu.umn.cs.csci3081w.project.model.CounterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

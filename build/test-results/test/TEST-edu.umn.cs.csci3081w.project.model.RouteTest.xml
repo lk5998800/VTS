@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.RouteTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-05-04T14:31:29" hostname="MacBook-Pro-3.local" time="0.018">
+  <properties/>
+  <testcase name="testPrevStopWhenAtTheEnd()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testReportNextStop()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.002"/>
+  <testcase name="testPrevStop()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testConstructorNormal()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testShallowCopy()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testGenerateNewPassengers()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testIsAtEnd()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.0"/>
+  <testcase name="testReport()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.0"/>
+  <testcase name="testUpdate()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testGetNextStopDistance()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testNextStop()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-05-04T14:31:28" hostname="MacBook-Pro-3.local" time="0.008">
+  <properties/>
+  <testcase name="testReturnVehicleBus()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.0"/>
+  <testcase name="testReturnVehicleDieselTrain()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.001"/>
+  <testcase name="testReturnVehicleElectricTrain()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.0"/>
+  <testcase name="testGenerateVehicleNull()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.0"/>
+  <testcase name="testGenerateVehicleElectric()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.0"/>
+  <testcase name="testGenerateVehicleDieselEarlyTime()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.0"/>
+  <testcase name="testGenerateVehicleDieselLateTime()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.001"/>
+  <testcase name="testReturnVehicleNull()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.0"/>
+  <testcase name="testConstructor()" classname="edu.umn.cs.csci3081w.project.model.TrainFactoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
